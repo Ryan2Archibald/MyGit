@@ -11,7 +11,5 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         System.out.println("现在是dev分支");
 
-        System.out.println("现在是feature-1分支");
-
     }
 }
